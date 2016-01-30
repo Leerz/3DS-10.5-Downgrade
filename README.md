@@ -39,8 +39,6 @@ Keep in mind throughout this that 10.4 and 10.5 use the same NATIVE-FIRM. Also k
 9. Get [access](http://corbindavenport.com/?p=403&new1) to the homebrew channel ([Starter kit here](https://smealum.github.io/ninjhax2/starter.zip)) ([Mirror](https://mega.nz/#!MsUmSJ6b!tp8gNdd7oo9Q3aX3TUFiMoN9e-lfU-1Zx4t0t26UlwM))
 10. [Downgrade](http://pastebin.com/m5C0jrVP) to 9.2 ([Mirror](http://pastebin.com/r0xZSgvZ))
 
-Consider this under revision, instructions will be updated shortly.
-
 ~
 
 Please reply with your bugs/issues or with confirmation of a successful downgrade either here or [on the IRC](https://www.rizon.net/chat) (#3dshacks)
