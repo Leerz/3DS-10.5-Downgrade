@@ -21,10 +21,10 @@ Keep in mind throughout this that 10.4 and 10.5 use the same NATIVE-FIRM. Also k
 * [Raugo's autofirm pack](https://mega.nz/#!8lFwxaTA!uxag4JB3wFgI6nPwrwWuwU8lKYsGxO7AjfpARr0Q8HQ) ([Mirror](https://mega.nz/#!MxMzRQKa!b3rugzgHvvMpmBkOKv_ZDW0CvZnRVnfjPpW2JSbFAx8))
 * The appropriate decrypted NATIVE-FIRM CIAs downloadable from MEGA
     
-    [Old 3DS 10.2 - 0004013800000002 v22313](https://mega.nz/#!osNSEJyL!jqfQJlhwTqmHLxvGfRyXNNUffgM0ze3ZTLdSf7MtkMk)    
-    [Old 3DS 10.4 - 0004013800000002 v23341](https://mega.nz/#!Us1CFaKK!pU-bG9Esg30LINlasTP43Sei6aDNnTIzh1ojwECKOrU)    
-    [New 3DS 10.2 - 0004013820000002 v22313](https://mega.nz/#!tg9gUJKI!3ETGUCmWB_AKYlK5mKJhfMaNJoO_0gqEMFQTi0_65eM)    
-    [New 3DS 10.4 - 0004013820000002 v23341](https://mega.nz/#!t90AiCga!anu5UenuD-uEm6z14n680rQThEgViAsytWh5ZuTa_hc)    
+    [Old 3DS 10.2 - 0004013800000002 v22313](https://mega.nz/#!osNSEJyL!jqfQJlhwTqmHLxvGfRyXNNUffgM0ze3ZTLdSf7MtkMk) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDZENDVmR5QzBEMlE))    
+    [Old 3DS 10.4 - 0004013800000002 v23341](https://mega.nz/#!Us1CFaKK!pU-bG9Esg30LINlasTP43Sei6aDNnTIzh1ojwECKOrU) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDbGNDMllpaElpaDA))    
+    [New 3DS 10.2 - 0004013820000002 v22313](https://mega.nz/#!tg9gUJKI!3ETGUCmWB_AKYlK5mKJhfMaNJoO_0gqEMFQTi0_65eM) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDZklNUlQ2aHc1aHc))    
+    [New 3DS 10.4 - 0004013820000002 v23341](https://mega.nz/#!t90AiCga!anu5UenuD-uEm6z14n680rQThEgViAsytWh5ZuTa_hc) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDbFRnV0EtUFlma1E))    
 
 *Instructions*
 
