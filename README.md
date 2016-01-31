@@ -20,7 +20,16 @@ Keep in mind throughout this that 10.4 and 10.5 use the same NATIVE-FIRM. Also k
 * Your 10.4 or 10.5 NAND extracted using your hardmod
 * [Raugo's autofirm pack](https://mega.nz/#!8lFwxaTA!uxag4JB3wFgI6nPwrwWuwU8lKYsGxO7AjfpARr0Q8HQ) ([Mirror](https://mega.nz/#!MxMzRQKa!b3rugzgHvvMpmBkOKv_ZDW0CvZnRVnfjPpW2JSbFAx8))
 * [msvcr120d.dll](https://mega.nz/#!hgswABBS!CD1lu_wh36Mp_XyUNo2ZU-6BklTUn_ugy9hLnJ2pJZk) ([Mirror](https://drive.google.com/file/d/0BzPfvjeuhqoDZGR5M21ScWtoUEk/view?usp=sharing))
-* The appropriate decrypted NATIVE-FIRM CIAs which can be found [on my Github page](https://github.com/Plailect/3DS-10.5-Downgrade). (note to mods, this is how ReiNAND links to their firmware files, so I hope this is fine)
+* The appropriate decrypted NATIVE-FIRM CIAs which can be found downloadable from MEGA.
+
+-    [Old 3DS 10.2 - 0004013800000002 v22313](https://mega.nz/#!osNSEJyL!jqfQJlhwTqmHLxvGfRyXNNUffgM0ze3ZTLdSf7MtkMk)    
+ -    [Old 3DS 10.4 - 0004013800000002 v23341](https://mega.nz/#!Us1CFaKK!pU-bG9Esg30LINlasTP43Sei6aDNnTIzh1ojwECKOrU)    
+ -    [New 3DS 10.2 - 0004013820000002 v22313](https://mega.nz/#!tg9gUJKI!3ETGUCmWB_AKYlK5mKJhfMaNJoO_0gqEMFQTi0_65eM)    
+ -    [New 3DS 10.4 - 0004013820000002 v23341](https://mega.nz/#!t90AiCga!anu5UenuD-uEm6z14n680rQThEgViAsytWh5ZuTa_hc)    
+ +    [Old 3DS 10.2 - 0004013800000002 v22313](https://mega.nz/#!osNSEJyL!jqfQJlhwTqmHLxvGfRyXNNUffgM0ze3ZTLdSf7MtkMk) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDZENDVmR5QzBEMlE))    
+ +    [Old 3DS 10.4 - 0004013800000002 v23341](https://mega.nz/#!Us1CFaKK!pU-bG9Esg30LINlasTP43Sei6aDNnTIzh1ojwECKOrU) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDbGNDMllpaElpaDA))    
+ +    [New 3DS 10.2 - 0004013820000002 v22313](https://mega.nz/#!tg9gUJKI!3ETGUCmWB_AKYlK5mKJhfMaNJoO_0gqEMFQTi0_65eM) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDZklNUlQ2aHc1aHc))    
+ +    [New 3DS 10.4 - 0004013820000002 v23341](https://mega.nz/#!t90AiCga!anu5UenuD-uEm6z14n680rQThEgViAsytWh5ZuTa_hc) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDbFRnV0EtUFlma1E))   
 
 *Instructions*
 
@@ -50,3 +59,8 @@ Confirmed Successful Downgrades:
 
 * /u/minkintn, [o3DS - 10.5 -> 10.3 -> 9.2]
 * [@vb_encryption_vb](https://gbatemp.net/members/375790/), [o3DS - 10.5 -> 10.3 -> 9.2]
+* [@thaikhoa](https://gbatemp.net/members/135207/), [m3DS - 10.5E -> 10.2E -> 9.2E]
+* [@Dean_](https://gbatemp.net/members/353863/), [o3DS - 10.5E -> 10.2E -> 9.2E]
+* [@Spore2](https://gbatemp.net/members/380079/), [1.1.0U -> 10.5U -> 10.2U -> 9.2U]
+* [@shadowofdarkness](https://gbatemp.net/members/74831/), [9.2U -> 10.5U -> 10.2U -> 9.2U]
+* [@DigitalJosee](https://gbatemp.net/members/321549/), [10.5 -> 10.2]
