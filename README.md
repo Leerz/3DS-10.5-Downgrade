@@ -55,7 +55,7 @@ Confirmed Successful Downgrades:
 
 * /u/minkintn, [o3DS - 10.5 -> 10.3 -> 9.2]
 * [@vb_encryption_vb](https://gbatemp.net/members/375790/), [o3DS - 10.5 -> 10.3 -> 9.2]
-* [@thaikhoa](https://gbatemp.net/members/135207/), [m3DS - 10.5E -> 10.2E -> 9.2E]
+* [@thaikhoa](https://gbatemp.net/members/135207/), [n3DS - 10.5E -> 10.2E -> 9.2E]
 * [@Dean_](https://gbatemp.net/members/353863/), [o3DS - 10.5E -> 10.2E -> 9.2E]
 * [@Spore2](https://gbatemp.net/members/380079/), [1.1.0U -> 10.5U -> 10.2U -> 9.2U]
 * [@shadowofdarkness](https://gbatemp.net/members/74831/), [9.2U -> 10.5U -> 10.2U -> 9.2U]
