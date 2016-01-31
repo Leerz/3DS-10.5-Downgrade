@@ -25,7 +25,7 @@ Keep in mind throughout this that 10.4 and 10.5 use the same NATIVE-FIRM. Also k
  +    [Old 3DS 10.2 - 0004013800000002 v22313](https://mega.nz/#!osNSEJyL!jqfQJlhwTqmHLxvGfRyXNNUffgM0ze3ZTLdSf7MtkMk) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDZENDVmR5QzBEMlE))    
  +    [Old 3DS 10.4 - 0004013800000002 v23341](https://mega.nz/#!Us1CFaKK!pU-bG9Esg30LINlasTP43Sei6aDNnTIzh1ojwECKOrU) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDbGNDMllpaElpaDA))    
  +    [New 3DS 10.2 - 0004013820000002 v22313](https://mega.nz/#!tg9gUJKI!3ETGUCmWB_AKYlK5mKJhfMaNJoO_0gqEMFQTi0_65eM) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDZklNUlQ2aHc1aHc))    
- +    [New 3DS 10.4 - 0004013820000002 v23341](https://mega.nz/#!t90AiCga!anu5UenuD-uEm6z14n680rQThEgViAsytWh5ZuTa_hc) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDbFRnV0EtUFlma1E))   
+ +    [New 3DS 10.4 - 0004013820000002 v23341](https://mega.nz/#!t90AiCga!anu5UenuD-uEm6z14n680rQThEgViAsytWh5ZuTa_hc) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDbFRnV0EtUFlma1E))
 
 *Instructions*
 
@@ -62,3 +62,9 @@ Confirmed Successful Downgrades:
 * [@DigitalJosee](https://gbatemp.net/members/321549/), [10.5 -> 10.2]
 * [@mvmiranda](http://gbatemp.net/members/338095/), [10.5U -> 10.2U -> 9.2U]
 * [@simon66](http://gbatemp.net/members/382078/), [10.5U -> 10.2U -> 9.2U]
+
+~
+
+ +    [Old 3DS 9.2 - 0004013800000002 v17120](https://mega.nz/#!Bs1RzJoS!p10_r8Kqb5ZZNLOMRAiHI_PAzgh528jO6tQbSJWKOjk) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDY3lUR0Q5RHBwY2c))
+ +    [New 3DS 9.2 - 0004013820000002 v17120](https://mega.nz/#!goElATgT!r-zIJ2zZQRxBPiv8U_G6hn_G5mH7eAH0SUnBAVb-Ea8
+) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDalp1ZkRwM1h3cVE))
