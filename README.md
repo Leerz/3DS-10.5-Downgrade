@@ -60,3 +60,5 @@ Confirmed Successful Downgrades:
 * [@Spore2](https://gbatemp.net/members/380079/), [1.1.0U -> 10.5U -> 10.2U -> 9.2U]
 * [@shadowofdarkness](https://gbatemp.net/members/74831/), [9.2U -> 10.5U -> 10.2U -> 9.2U]
 * [@DigitalJosee](https://gbatemp.net/members/321549/), [10.5 -> 10.2]
+* [@mvmiranda](http://gbatemp.net/members/338095/), [10.5U -> 10.2U -> 9.2U]
+* [@simon66](http://gbatemp.net/members/382078/), [10.5U -> 10.2U -> 9.2U]
