@@ -1,5 +1,5 @@
 # 3DS-10.5-Downgrade
-An untested downgrade of NATIVE-FIRM from 10.4/10.5 to 10.2
+An ~~untested~~ actually pretty well tested downgrade of NATIVE-FIRM from 10.4/10.5 to 10.2
 
 This is crossposted from [reddit](https://www.reddit.com/r/3dshacks/comments/43fj8t/wip_hardmod_users_only_an_untested_downgrade_of/).
 
