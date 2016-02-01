@@ -62,9 +62,3 @@ Confirmed Successful Downgrades:
 * [@DigitalJosee](https://gbatemp.net/members/321549/), [10.5 -> 10.2]
 * [@mvmiranda](http://gbatemp.net/members/338095/), [10.5U -> 10.2U -> 9.2U]
 * [@simon66](http://gbatemp.net/members/382078/), [10.5U -> 10.2U -> 9.2U]
-
-~
-
- +    [Old 3DS 9.2 - 0004013800000002 v17120](https://mega.nz/#!Bs1RzJoS!p10_r8Kqb5ZZNLOMRAiHI_PAzgh528jO6tQbSJWKOjk) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDY3lUR0Q5RHBwY2c))
- +    [New 3DS 9.2 - 0004013820000002 v17120](https://mega.nz/#!goElATgT!r-zIJ2zZQRxBPiv8U_G6hn_G5mH7eAH0SUnBAVb-Ea8
-) ([Mirror](https://drive.google.com/open?id=0BzPfvjeuhqoDalp1ZkRwM1h3cVE))
